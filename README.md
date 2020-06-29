@@ -5,7 +5,9 @@ Core functions for visualizing factor & numeric series
 
 The repository is now private.
 
-See some of these functions in practice here: https://colab.research.google.com/drive/1lkvvmK7uVyqG7dg_H8FGeCeaGlwZyL5L
+See some of these functions in practice here:
+  - Data analysis: https://colab.research.google.com/drive/1lkvvmK7uVyqG7dg_H8FGeCeaGlwZyL5L
+  - Prediction : https://colab.research.google.com/drive/1RrmsTrUKPmqrbp9COPfpOT9eX-DNjMah
 
 Notable tools:
 
