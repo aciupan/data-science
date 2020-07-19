@@ -1,8 +1,6 @@
 # data-science
 Data science tools : exploratory data analysis, prediction, visualization
 
-Core functions for visualizing factor & numeric series
-
 The repository is now private.
 
 See some of these functions in practice here:
