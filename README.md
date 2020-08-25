@@ -1,7 +1,7 @@
 # data-science
 Data science tools : exploratory data analysis, prediction, visualization
 
-The repository is now private.
+The repository is private.
 
 See some of these functions in practice here:
   - Data analysis: https://colab.research.google.com/drive/1lkvvmK7uVyqG7dg_H8FGeCeaGlwZyL5L
